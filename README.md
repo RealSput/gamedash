@@ -1,4 +1,4 @@
-# gamedash
+# geometryboy
 Game Boy emulator inside of GD
 
 # TODO
